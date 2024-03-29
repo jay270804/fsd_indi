@@ -8,6 +8,11 @@
     background-color: #000;
     color: #F7F7F7;
 }
+@font-face {
+    font-family: futura;
+    src: url('Futura-Bold.ttf'),
+         url('fonts/ttf/Acme-Regular.ttf');
+}
 
 html,
 body {
